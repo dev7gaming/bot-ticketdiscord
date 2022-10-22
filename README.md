@@ -1,6 +1,5 @@
 <div align="center">
 	<img
-	     src="https://img.eartharoid.me/insecure/plain/https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient-by-eartharoid.png@png"
 	     alt="Discord Tickets"
 	     />
 	<b>	
